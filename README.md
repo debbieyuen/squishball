@@ -1,5 +1,12 @@
 # Hardware: Squish Ball Controller 🎮
-A Figma plugin that simplifies renaming layers and components by streamlining your refactoring process. While designing in Figma, clean up your layers by renaming duplicates and variations of a component within the same layer all at once! For example, rename all `buttons` within a parent component in one go while excluding nodes of different types such as `text`, `spacers`, and `images`. 
+The [*Squish Ball*]() controller has a big, colorful personality. It farts on players when they lose the game and throws a tantrum by shaking – bored due to game time limits. But *Squish Ball* lights with joy when flying around the game and collecting gems. Most of all, it loves to increase video game accessibility to children unable to swipe on a screen or hit buttons. *Squish Ball* functions as a game controller designed to be used in conjunction with the rhythm game, [*Travel the Stars*](). 
+
+*Travel the Stars* (game) and *Squish Ball* (controller) cooperate to integrate a personable toy, children’s fart jokes, and a video game designed for children between the **ages of 2 to 5 years**. 
+In *Travel the Stars*, players are invited to fly through outer space to experience the game’s message – to reach for the stars while also enjoying the rocketship ride. 
+
+When we hop onto the rocketship, we are excited and want to keep winning and moving to our destination. *Travel the Stars* shows the value of stopping by the planets to explore and pausing the game to experience the physical world. Can we find meaning in our life adventures? How can we as individuals find and bring positivity and inspiration to the world around us?
+
+*Squish Ball* reinvents the controller experience for children through smell, touch, and other haptic feedback. Children may play *Travel the Stars* without the need for buttons and touch screens by squishing (`squish`), hugging (`hug`), moving (`move`), bouncing (`bounce`), and poking (`poke`). *Squish Ball* adds to the gameplay experience by expressing themselves as an active participant in bringing fun, joy, and jokes. This game controller experience captures children’s imaginations and emotions through playing pretend with the controller and navigating through the gameplay. 
 
 https://github.com/debbieyuen/figma-plugin-renaming-layers/assets/31296177/41a4e166-0164-477c-a638-39d9c651f469
 
