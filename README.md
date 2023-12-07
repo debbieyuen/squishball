@@ -18,6 +18,7 @@ https://github.com/debbieyuen/figma-plugin-renaming-layers/assets/31296177/41a4e
   * [Adafruit Circuit Playground Library](https://github.com/adafruit/Adafruit_CircuitPlayground)
   * [I2C Device Library](https://github.com/jrowberg/i2cdevlib)
   * [Ardity](https://github.com/dwilches/Ardity)
+  * [React App to GitHub Pages](https://github.com/gitname/react-gh-pages)
 
 * **Hardware:**
   * [Arduino UNO R3](https://store.arduino.cc/products/arduino-uno-rev3)
@@ -34,10 +35,44 @@ Clone the repository
 $ git clone https://github.com/debbieyuen/squishball
 ```
 
-Install dependencies with `npm`.
+Create a React app
 ```bash
-$ npm install --save-dev @figma/plugin-typings
-$ npm install figma-plugin-ds 
+$ npx create-react-app my-app
+```
+
+Install React dependencies with `npm`.
+```bash
+$ npm install
+$ npm install react-unity-webgl@8.x
+$ npm install gh-pages -save-dev
+```
+
+Deploy React App to http://localhost:3000/
+```bash
+$ npm start
+```
+
+In your **package.json**, add a `homepage` property in this format\*: `https://{username}.github.io/{repo-name}`
+```diff
+ {
+   "name": "my-app",
+   "version": "0.1.0",
++  "homepage": "https://gitname.github.io/react-gh-pages",
+   "private": true,
+```
+
+In your **package.json**, add a `predeploy` property and a `deploy` property to the `scripts` object:
+```diff
+"scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+```
+
+Deploy GitHub Pages
+```bash
+$ npm run deploy
 ```
 
 ## Credits and References
