@@ -77,4 +77,3 @@ $ npm run deploy
 
 ## Credits and References
 * [Marc Teyssier: Uduino](https://marcteyssier.com/uduino/tutorials)
-* [Figma Plugin React](https://github.com/nirsky/figma-plugin-react-template)
