@@ -8,7 +8,7 @@ When we hop onto the rocketship, we are excited and want to keep winning and mov
 
 *Squish Ball* reinvents the controller experience for children through smell, touch, and other haptic feedback. Children may play *Travel the Stars* without the need for buttons and touch screens by squishing (`squish`), hugging (`hug`), moving (`move`), bouncing (`bounce`), and poking (`poke`). *Squish Ball* adds to the gameplay experience by expressing themselves as an active participant in bringing fun, joy, and jokes. This game controller experience captures children’s imaginations and emotions through playing pretend with the controller and navigating through the gameplay. 
 
-https://github.com/debbieyuen/figma-plugin-renaming-layers/assets/31296177/41a4e166-0164-477c-a638-39d9c651f469
+![Screenshot 2024-04-17 at 12 33 51 AM](https://github.com/debbieyuen/squishball/assets/31296177/848082f0-adb5-4af3-8e2b-156cd5564e50)
 
 ## Requirements
 * **Software:**
